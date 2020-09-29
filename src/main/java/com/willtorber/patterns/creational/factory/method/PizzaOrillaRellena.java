@@ -1,4 +1,4 @@
-package com.willtorber.patterns.creational.factoryMethod;
+package com.willtorber.patterns.creational.factory.method;
 
 
 public class PizzaOrillaRellena extends Pizza {

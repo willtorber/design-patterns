@@ -1,4 +1,4 @@
-package com.willtorber.patterns.creational.simpleFactory;
+package com.willtorber.patterns.creational.factory.simple;
 
 import lombok.extern.slf4j.Slf4j;
 

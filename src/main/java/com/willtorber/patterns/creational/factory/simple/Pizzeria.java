@@ -1,4 +1,4 @@
-package com.willtorber.patterns.creational.simpleFactory;
+package com.willtorber.patterns.creational.factory.simple;
 
 public class Pizzeria {
 

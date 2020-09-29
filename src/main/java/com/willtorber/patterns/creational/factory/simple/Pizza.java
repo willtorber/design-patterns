@@ -1,8 +1,7 @@
-package com.willtorber.patterns.creational.simpleFactory;
+package com.willtorber.patterns.creational.factory.simple;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
-import lombok.NoArgsConstructor;
 
 @Data
 @AllArgsConstructor

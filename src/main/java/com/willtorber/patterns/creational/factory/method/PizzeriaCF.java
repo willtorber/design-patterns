@@ -1,4 +1,4 @@
-package com.willtorber.patterns.creational.factoryMethod;
+package com.willtorber.patterns.creational.factory.method;
 
 public class PizzeriaCF implements IPizzeria {
 
@@ -11,7 +11,7 @@ public class PizzeriaCF implements IPizzeria {
 		if (tipo.equals("Hawaiana")) {
 			return new Pizza( "Hawaiana",8);
 		}
-		
+
 		if (tipo.equals("Peperoni orilla rellena")) {
 			return new PizzaOrillaRellena( "Peperoni", 12); //
 		}
