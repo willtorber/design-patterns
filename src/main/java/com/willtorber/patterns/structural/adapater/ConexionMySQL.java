@@ -1,9 +1,12 @@
 package com.willtorber.patterns.structural.adapater;
 
+import lombok.extern.slf4j.Slf4j;
+
+@Slf4j
 public class ConexionMySQL implements IConexionSQL {
 
 	public void conexion() {
-		System.out.println("Conexión con MYSQL");
+		log.info("Conexión con MYSQL");
 	}
 	
 	public String runQuery() {
